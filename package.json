@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-camera-preview",
-  "version": "0.12.3",
+  "version": "0.12.4",
   "description": "Cordova plugin that allows camera interaction from HTML code for showing camera preview below or on top of the HTML.",
   "keywords": [
     "cordova",
@@ -18,15 +18,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview"
+    "url": "https://github.com/thiagomoraesnasajon/cordova-plugin-camera-preview"
   },
   "author": {
-    "name": "Weston Ganger",
-    "email": "westonganger@gmail.com",
-    "url": "solidfoundationwebdev.com"
+    "name": "Thiago Moraes",
+    "email": "thiagomoraes@nasajon.com.br",
+    "url": "nasajon.com.br"
   },
   "license": "Apache 2.0",
-  "homepage": "https://github.com/cordova-plugin-camera-preview/cordova-plugin-camera-preview",
+  "homepage": "https://github.com/thiagomoraesnasajon/cordova-plugin-camera-preview",
   "typings": "typescript/CameraPreview.d.ts",
   "dependencies": {
   },
